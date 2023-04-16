@@ -17,6 +17,11 @@
 			"Name": "WeatherSystem",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6a646be0d2194fdc91c211d3e288f044"
+		},
+		{
+			"Name": "RhythmGamePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b049d9708ec549efb876ced01fe316f6"
 		}
 	],
 	"TargetPlatforms": [
