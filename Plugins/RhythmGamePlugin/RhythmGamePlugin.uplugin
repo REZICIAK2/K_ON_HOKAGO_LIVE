@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.6",
+	"FriendlyName": "Rhythm Game Plugin",
+	"Description": "Plugin for Unreal Engine that uses level sequence as an editor to create beats for a song. Beat creation process is manual but results are precise.",
+	"Category": "Phoenix Market",
+	"CreatedBy": "Phoenix Market",
+	"CreatedByURL": "https://forums.unrealengine.com/unreal-engine/marketplace/1617567-rhythm-game-plugin",
+	"DocsURL": "https://docs.google.com/document/d/1NFRQw9ciD_FcYvCikVBb9GS_YJlDdMLAYjHFMm9gCvc",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b049d9708ec549efb876ced01fe316f6",
+	"SupportURL": "https://discord.gg/yGQTeb7",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RhythmGamePlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"BlacklistPlatforms": [
+				"IOS",
+				"Mac",
+				"Linux",
+				"LinuxAArch64"
+			]
+		}
+	]
+}
